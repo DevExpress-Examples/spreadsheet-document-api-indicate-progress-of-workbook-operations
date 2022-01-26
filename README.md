@@ -10,7 +10,7 @@
 
 <!-- default file list end -->
 
-# Spreadsheet Document API - How to Indicate Progress of Workbook Operations
+# Spreadsheet Document API - Indicate Progress of Workbook Operations
 
 This example demonstrates how to create a simple progress dialog that indicates the progress of load and PDF export operations. 
 
