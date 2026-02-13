@@ -19,7 +19,7 @@ This example demonstrates how to create a simple progress dialog that indicates 
 
 The [Workbook.LoadDocumentAsync](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Spreadsheet.Workbook.LoadDocumentAsync.overloads) and [Workbook.ExportToPdfAsync](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Spreadsheet.Workbook.ExportToPdfAsync.overloads) methods accept a [Progress&lt;T&gt;](https://docs.microsoft.com/en-US/dotnet/api/system.progress-1) instance as a parameter to report progress information. Pass a [CancellationToken](https://docs.microsoft.com/en-US/dotnet/api/system.threading.cancellationtoken) object to these methods to cancel operations when a user clicks **Cancel** or closes the form.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=spreadsheet-document-api-indicate-progress-of-workbook-operations&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=spreadsheet-document-api-indicate-progress-of-workbook-operations&~~~was_helpful=no)
 
